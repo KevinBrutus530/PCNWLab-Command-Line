@@ -39,12 +39,19 @@ Follow the following steps ONLY using your command line:
 
 1. Navigate to the inside of your Documents folder
 3. Create a file called foo.js
+touch foo.js
 4. Open the file with a text editor, (Atom/VSCode)
+code foo.js
 5. Add the following text to the file: console.log('hello')
+console.log('hello')
 6. Save and exit the file
+save
 7. Open the file again with a text editor, (Atom/VSCode)
+code foo.js
 8. Add the following in a new line: hellohellohello
+hellohellohellohellohellohello
 9. Exit without saving
+Exit
 
 ******************/
 
